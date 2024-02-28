@@ -1,0 +1,4 @@
+﻿  Lab05.cpp
+C:\Users\Lenovo\OneDrive\Desktop\GameLabWW\GameLabWW\Lab05.cpp(7,14): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\Lenovo\OneDrive\Desktop\GameLabWW\GameLabWW\Lab05.cpp(7,17): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+  GameLabWW.vcxproj -> C:\Users\Lenovo\OneDrive\Desktop\GameLabWW\x64\Debug\GameLabWW.exe
